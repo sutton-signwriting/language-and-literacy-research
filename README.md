@@ -36,19 +36,17 @@ The cognitive motivation is a research claim, not a settled outcome claim. Durab
 
 Begin with:
 
-1. [Sutton SignWriting Language and Literacy Research Overview](entries/overview/essay.md)
-2. [The Four Language Pathways](entries/the-four-language-pathways/essay.md)
-3. [Reading Signed Text](entries/reading-signed-text/essay.md)
-4. [Research Program for Literacy Without Sound](entries/research-program-for-literacy-without-sound/essay.md)
+1. [Sutton SignWriting Language and Literacy Research Overview](entries/overview/essay.md) - overview and research posture
+2. [The Four Language Pathways](entries/the-four-language-pathways/essay.md) - model paper on language pathways, literacy pathways, and developmental layering
+3. [Reading Signed Text](entries/reading-signed-text/essay.md) - research-facing paper on recognition, syntax, spatial reference, and signed-language reading
+4. [Research Program for Literacy Without Sound](entries/research-program-for-literacy-without-sound/essay.md) - practical program for study design, materials, corpora, reusable research infrastructure, and evidence/model notes
 
-## Contents
+## Repository Files
 
-- [Sutton SignWriting Language and Literacy Research Overview](entries/overview/essay.md) - overview and research posture
-- [The Four Language Pathways](entries/the-four-language-pathways/essay.md) - model paper on language pathways, literacy pathways, and developmental layering
-- [Reading Signed Text](entries/reading-signed-text/essay.md) - research-facing paper on recognition, syntax, spatial reference, and signed-language reading
-- [Research Program for Literacy Without Sound](entries/research-program-for-literacy-without-sound/essay.md) - practical program for study design, materials, corpora, reusable research infrastructure, and evidence/model notes
-  - [Program Notes](entries/research-program-for-literacy-without-sound/program-notes.md) - support notes for program design and sequencing
-  - [Evidence and Model Notes](entries/research-program-for-literacy-without-sound/evidence-and-model-notes.md) - support notes for evidence boundaries, model claims, and reference anchors
+The reading sequence above contains the main series documents. Additional repository files include:
+
+- [Program Notes](entries/research-program-for-literacy-without-sound/program-notes.md) - support notes for program design and sequencing
+- [Evidence and Model Notes](entries/research-program-for-literacy-without-sound/evidence-and-model-notes.md) - support notes for evidence boundaries, model claims, and reference anchors
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation
@@ -61,7 +59,9 @@ Use the series DOI when citing the research series as a whole. Use an artifact D
 
 ## Platform Context
 
-This repository is one of eight series in the Sutton SignWriting platform release. It keeps evidence status visible and connects research questions to documented use, technical infrastructure, and stewardship requirements.
+This repository is one of eight series in the Sutton SignWriting platform release. The platform-level record is maintained in the [Sutton SignWriting Platform Record](https://github.com/sutton-signwriting/platform-record) repository.
+
+It keeps evidence status visible and connects research questions to documented use, technical infrastructure, and stewardship requirements.
 
 ## License
 
